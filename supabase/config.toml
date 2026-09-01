@@ -1,0 +1,4 @@
+project_id = "ykmuppxmlhzkraslijko"
+
+[functions.generate-recall]
+verify_jwt = false
